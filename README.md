@@ -1,3 +1,3 @@
-# NetFlix-Clone - Pagina main
+# Netflix-Clone - Pagina main
 
 Desenvolvido em JavaScript puro, CSS e HTML.
