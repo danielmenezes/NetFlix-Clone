@@ -1,0 +1,21 @@
+@media(max-width: 768px) {
+  
+  .secondary-menu {
+    display: block;
+  }
+
+  .menu {
+    display: none;
+  }
+  
+
+  .botao {
+    margin-top: 5px;
+  }
+
+  .filme-principal .botoes {
+    flex-direction: column;
+    width: 200px;
+  }
+}
+
